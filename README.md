@@ -3,7 +3,7 @@ This repo hosts a Convolutional Neural Network (CNN) for classification of image
 
 The dataset whcih contains 2186 images of coastlines, was compiled by [Tom Beuzen](https://www.tomasbeuzen.com/) and can be found on Kaggle datasets [here](https://www.kaggle.com/datasets/tomasbeuzen/dsci572satellitetransfer).
 
-Due to the computational needs to run this analysis, the original script was generated using Kaggle Notebooks to leverage Kaggle's cloud GPU. This notebook can be found [here]().
+Due to the computational needs to run this analysis, the original script was generated using Kaggle Notebooks to leverage Kaggle's cloud GPU. This notebook can be found [here](https://www.kaggle.com/code/arashshamseddini/coastal-satellite-image-classification-with-cnn).
 
 A rendered copy of this script can also be found in this repo, [here]().
 
