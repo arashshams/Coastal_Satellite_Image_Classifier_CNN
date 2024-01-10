@@ -1,7 +1,8 @@
 # Coastal_Satellite_Image_Classifier_CNN
 This repo hosts a Convolutional Neural Network (CNN) for classification of images from coastal satellites. The model is able to distinguish between `developed` vs `natural` coastlines. There are many reasons why this automated classification might be of interest, for example, determining areas at risk of sea level rise and more.
 
-![Coastline Satellite Image](./images/CSI.jpg)
+<p align="center"><img src="./images/CSI.jpg" width="600" height="400"> 
+<h6 align="center">Source: www.unsplash.com</h6>
 
 The dataset which contains 2186 images of coastlines, was compiled by [Tom Beuzen](https://www.tomasbeuzen.com/) and can be found on Kaggle datasets [here](https://www.kaggle.com/datasets/tomasbeuzen/dsci572satellitetransfer).
 
